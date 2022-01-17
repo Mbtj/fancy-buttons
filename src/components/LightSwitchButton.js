@@ -8,3 +8,5 @@ function LightSwitchButton() {
     </button>
   );
 };
+
+export default LightSwitchButton;

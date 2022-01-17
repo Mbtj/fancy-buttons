@@ -7,3 +7,5 @@ function CounterButton() {
     </button>
   );
 };
+
+export default CounterButton;

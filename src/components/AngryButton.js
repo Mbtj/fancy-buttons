@@ -8,3 +8,5 @@ function AngryButton() {
   </button>
   );
 };
+
+export default AngryButton;
